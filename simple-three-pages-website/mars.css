@@ -1,0 +1,17 @@
+/* Multiple tag selector using commas */
+h1{
+    color: #d33d1f;
+}
+
+h2{
+    color: #d33d1f;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+
+  }
