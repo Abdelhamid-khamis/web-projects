@@ -1,0 +1,17 @@
+/* Start Variables */
+
+/* End Variables */
+
+
+/* Start Global Rules - box model in CSS3 for Chrome, Safari & Mozilla browsers */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing:border-box;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;   /*Generated using Google Fonts*/
+
+}
+/* End Global Rules */
